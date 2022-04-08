@@ -150,6 +150,8 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
 
 ### Do you want a bonus? 
 
+Do one, some, or all, of the following before the end of April:
+
 Publish an A-Frame component.
 - <https://www.npmjs.com/package/angle>
 
