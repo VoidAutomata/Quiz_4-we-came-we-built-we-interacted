@@ -83,8 +83,9 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
 
 ### Week 11
 
-1. interaction
+1. interaction along the virtuality-reality continuum
 
 ### Week 12
 
 1. tracking
+2. OOP, ECS, DOM
