@@ -21,7 +21,7 @@ This is the last `quiz`... you've made it through:
 
 Our notes from last class (_THE_ [`last class`](last-class.md)) might be helpful to reference while answering the `Quiz 4` questions.
 
-Here we go! Just answer in this `readme.md` file - you can even do it online, remember? (grab a copy of the repo first though!)
+Here we go! Just answer in this `readme.md` file - you can even do it online, remember? (grab a copy of the repo first though!). You do not need to write long answers. In fact, keep them short, keep them clear.
 
 ### Week 01
 
@@ -58,18 +58,21 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
 ### Week 04
 
 1. Python
-2. IDEs and env
+   - Show me where you completed the `try these` instructions from [Feb 3](https://github.com/robots-make-art-too/EECS_1720/tree/main/General-Content/Content_by_Week/Week04/Week04-live_code)
 
 ### Week 05
 
 1. Python OOP
+   - Write a python class for a `classy robot` that has the following: a name, an age, and can start and stop dancing when you clap. You can do it in under 10 lines.
 2. APIs
+   - What API did you connect with in Lab 2? Briefly explain how you integrated interactivity within your code. 
 
 ### Week 06
 
 1. server-client
+   - Give me an example of an interaction done `client-side` and an iteraction done `server-side`.
 2. local hosting
-
+   - what is the difference between dragging an index.html file into your browser and opening an index.html file using localhost? Do you remember the number equivalent to localhost? 
 ### Week 07
 
 1. GitHub pages
