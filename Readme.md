@@ -168,3 +168,8 @@ Publish your browser extension.
 
 Release a version of your Bot.
 - <https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository>
+
+
+---
+
+Psst: Every 100 days _another_ `100 days of code` starts ... 
