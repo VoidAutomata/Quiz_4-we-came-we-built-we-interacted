@@ -19,4 +19,4 @@ This is the last `quiz`... you've made it through:
 
 ## Let's look back
 
-Our notes from [last class _THE_ `last class`](lastclass.md)
+Our notes from [last class _THE_ `last class`](last-class.md)
