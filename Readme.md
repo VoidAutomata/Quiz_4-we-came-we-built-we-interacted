@@ -49,7 +49,7 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
 4. CLI & GUI
    - Give me at least 3 ways we used GitHub and explain the difference between local and remote copies of a repo.
 5. debug
-   - What magical number-letter combo helps us debug in the browser? (What is a cross-origin error?) 
+   - What magical number-letter combo helps us debug in the browser? (What is a cross-origin error?) How can I display console content?
 
 ---
 
@@ -68,6 +68,7 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
 
 1. Python
    - Show me where you completed the `try these` instructions from [Feb 3](https://github.com/robots-make-art-too/EECS_1720/tree/main/General-Content/Content_by_Week/Week04/Week04-live_code)
+2. Describe and list common attributes of any object-oriented programming language.
 
 ---
 
@@ -110,32 +111,52 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
 ### Week 09
 
 1. OOP elements & interactive JavaScript
-   - f
+   - How did we interact with webpage elements using code?
 2. integrating multi-code & external content
+   - What kind of event-based interactions are possible in web-based applications? 
 
 ---
 
 ### Week 10
 
 1. Levels of location - local to geo
+   - How did we instantiate multiple geo-locations and dynamic object loading in our AR code?
 2. app hosting
-3. environments
+   - What is important about constucting an app? How does this relate to its `environment`?
 
 ---
 
 ### Week 11
 
 1. interaction along the virtuality-reality continuum
+   - Why are `id`'s important for interaction?
+2. Tell me about 2 WEB-APIs and how you could integrate them into any of your course content submissions? Give me a line or two of code.
 
 ---
 
 ### Week 12
 
 1. tracking
+   - Briefly describe how the complexity changes between image, facial, and hand, tracking? 
 2. OOP, ECS, DOM
+   - What are these acronyms? How are they related?
+3. How do you register a component in A-Frame, and show me how to relate this component to data flow, API, and useage. 
 
 ---
 
 ## That's all!
 
 (did you ever watch the movie trailer embedded somewhere in your Quiz 3 readme.md [files](https://github.com/robots-make-art-too/Quiz_3-message-in-a-bottle)?)
+
+### Do you want a bonus? 
+
+Publish an A-Frame component.
+- <https://www.npmjs.com/package/angle>
+
+Publish your browser extension. 
+- [microsoft](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/create-dev-account)
+- [chrome](https://developer.chrome.com/docs/extensions/)
+- [firefox](https://addons.mozilla.org/en-CA/developers/)
+
+Release a version of your Bot.
+- <https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository>
