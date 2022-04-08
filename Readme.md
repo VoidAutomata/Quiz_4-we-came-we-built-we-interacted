@@ -128,7 +128,7 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
 1. Levels of location - local to geo
    - How did we instantiate multiple geo-locations and dynamic object loading in our AR code?
 2. app hosting
-   - What is important about constucting an app? How does this relate to its `environment`?
+   - What is important about constructing an app? How does this relate to its `environment`?
 
 ---
 
