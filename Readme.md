@@ -17,20 +17,26 @@ This is the last `quiz`... you've made it through:
   - smile! There will be a surprize sent to your `GPS` next week!
   - interacting digitally across space and time (in just a few lines..)
 
+---
+
 ## Let's look back
 
 Our notes from last class (_THE_ [`last class`](last-class.md)) might be helpful to reference while answering the `Quiz 4` questions.
 
 Here we go! Just answer in this `readme.md` file - you can even do it online, remember? (grab a copy of the repo first though!). You do not need to write long answers. In fact, keep them short, keep them clear.
 
+---
+
 ### Week 01
 
 1. setup
-  - What is a repo and why do we use them?
+   - What is a repo and why do we use them?
 2. version control
    - Why do we use version control? How did you manage making use of this? Be specific.
 3. processing
    - Why is processing similar across _at least_ three languages (Java, Python, JavaScript)? What might be the point of this?
+
+---
 
 ### Week 02
 
@@ -45,20 +51,26 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
 5. debug
    - What magical number-letter combo helps us debug in the browser? (What is a cross-origin error?) 
 
+---
+
 ### Week 03
 
 1. Browsers, extensions
-  - Interaction with the browser through extensions required at least 2 things. Tell me what you think they are. There is a correct answer, and I talked about it in a January video.
+   - Interaction with the browser through extensions required at least 2 things. Tell me what you think they are. There is a correct answer, and I talked about it in a January video.
 2. DOM, selectors, elements
-  - How are these related? 
+   - How are these related? 
 
 3. JavaScript OOP
    - Show me 2 specific ways you used an OOP style in your course content submissions. Where did I use OOP in my p5.js updates?
+
+---
 
 ### Week 04
 
 1. Python
    - Show me where you completed the `try these` instructions from [Feb 3](https://github.com/robots-make-art-too/EECS_1720/tree/main/General-Content/Content_by_Week/Week04/Week04-live_code)
+
+---
 
 ### Week 05
 
@@ -67,28 +79,42 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
 2. APIs
    - What API did you connect with in Lab 2? Briefly explain how you integrated interactivity within your code. 
 
+---
+
 ### Week 06
 
 1. server-client
-   - Give me an example of an interaction done `client-side` and an iteraction done `server-side`.
+   - Give me an example of an interaction done `client-side` and an interaction done `server-side`.
 2. local hosting
    - what is the difference between dragging an index.html file into your browser and opening an index.html file using localhost? Do you remember the number equivalent to localhost? 
+
+---
+
 ### Week 07
 
 1. GitHub pages
+   - What is a `deployment` in this context? What is a branch and why are they used for contributing to repos? 
 2. Augmented Reality
-3. event driven programming
+   - What makes AR possible? What is needed in a code context?
+
+---
 
 ### Week 08
 
 1. aesthetics
+   - Give me a specific example of where you considered aesthetic design in any of your course content?
 2. APIs for extending integration
+   - Identify where in _your_ code, for Quiz 1, Quiz 2, Quiz 3, Lab 1, Lab 2, Lab 3 that either you used an API or where you _could_ integrate an API (it could be that we added API access in the lecture example and you used the same - still identify this).
+
+---
 
 ### Week 09
 
-1. OOP elements
-2. Interactive JavaScript
-3. integrating multi-code & external content
+1. OOP elements & interactive JavaScript
+   - 
+2. integrating multi-code & external content
+
+---
 
 ### Week 10
 
@@ -96,11 +122,21 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
 2. app hosting
 3. environments
 
+---
+
 ### Week 11
 
 1. interaction along the virtuality-reality continuum
+
+---
 
 ### Week 12
 
 1. tracking
 2. OOP, ECS, DOM
+
+---
+
+## That's all!
+
+(did you ever watch the movie trailer embedded somewhere in your Quiz 3 readme.md files?)
