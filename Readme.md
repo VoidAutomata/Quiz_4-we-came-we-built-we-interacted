@@ -59,7 +59,6 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
    - Interaction with the browser through extensions required at least 2 things. Tell me what you think they are. There is a correct answer, and I talked about it in a January video.
 2. DOM, selectors, elements
    - How are these related? 
-
 3. JavaScript OOP
    - Show me 2 specific ways you used an OOP style in your course content submissions. Where did I use OOP in my p5.js updates?
 
