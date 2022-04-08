@@ -26,22 +26,34 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
 ### Week 01
 
 1. setup
+  - What is a repo and why do we use them?
 2. version control
+   - Why do we use version control? How did you manage making use of this? Be specific.
 3. processing
+   - Why is processing similar across _at least_ three languages (Java, Python, JavaScript)? What might be the point of this?
 
 ### Week 02
 
 1. IDEs
+   - What IDEs did you use over the last 3.5 months?
 2. UI & UI Elements
+   - Give me a specific example of where you considered UI in any of your course content submissions?
 3. JSON
+   - What _exactly_ is JSON? Decide how you want to answer this.
 4. CLI & GUI
+   - Give me at least 3 ways we used GitHub and explain the difference between local and remote copies of a repo.
 5. debug
+   - What magical number-letter combo helps us debug in the browser? (What is a cross-origin error?) 
 
 ### Week 03
 
 1. Browsers, extensions
+  - Interaction with the browser through extensions required at least 2 things. Tell me what you think they are. There is a correct answer, and I talked about it in a January video.
 2. DOM, selectors, elements
+  - How are these related? 
+
 3. JavaScript OOP
+   - Show me 2 specific ways you used an OOP style in your course content submissions. Where did I use OOP in my p5.js updates?
 
 ### Week 04
 
