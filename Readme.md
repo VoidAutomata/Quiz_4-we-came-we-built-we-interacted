@@ -74,7 +74,7 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
 ### Week 05
 
 1. Python OOP
-   - Write a python class for a `classy robot` that has the following: a name, an age, and can start and stop dancing when you clap. You can do it in under 10 lines.
+   - Write a python class for a `classy robot` that has the following: a name, an age, and can start and stop dancing when you clap. You can do it in under 10 lines (it can be pseudo-code like).
 2. APIs
    - What API did you connect with in Lab 2? Briefly explain how you integrated interactivity within your code. 
 
@@ -110,7 +110,7 @@ Here we go! Just answer in this `readme.md` file - you can even do it online, re
 ### Week 09
 
 1. OOP elements & interactive JavaScript
-   - 
+   - f
 2. integrating multi-code & external content
 
 ---
