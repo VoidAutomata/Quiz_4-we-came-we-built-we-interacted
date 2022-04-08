@@ -23,7 +23,11 @@ This is the last `quiz`... you've made it through:
 
 Our notes from last class (_THE_ [`last class`](last-class.md)) might be helpful to reference while answering the `Quiz 4` questions.
 
-Here we go! Just answer in this `readme.md` file - you can even do it online, remember? (grab a copy of the repo first though!). You do not need to write long answers. In fact, keep them short, keep them clear.
+Here we go! Just answer in this `readme.md` file - you can even do it online, remember? (grab a copy of the repo first though!). 
+
+>
+> You do not need to write long answers. In fact, keep them short, keep them clear.
+>
 
 ---
 
