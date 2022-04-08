@@ -26,7 +26,7 @@ Our notes from last class (_THE_ [`last class`](last-class.md)) might be helpful
 Here we go! Just answer in this `readme.md` file - you can even do it online, remember? (grab a copy of the repo first though!). 
 
 >
-> You do not need to write long answers. In fact, keep them short, keep them clear.
+> You do not need to write long answers. In fact, keep them short, keep them clear. Point-form, jot-notes, paraphrasing, snippets, links.
 >
 
 ---
